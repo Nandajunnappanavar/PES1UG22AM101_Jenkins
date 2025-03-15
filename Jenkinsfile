@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                sh './app'  // Run the compiled app
+                sh './Nanda J'  // Run the compiled app
             }
         }
         stage('Deploy') {
